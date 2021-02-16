@@ -1,0 +1,42 @@
+contracts:
+  wcr-105-1:
+    abi: wcr-105/build/vulnerable.abi
+    name: wcr-105-1
+    wasm: wcr-105/build/vulnerable.wasm
+  wcr-105-2:
+    abi: wcr-105/build/freezevuln.abi
+    name: wcr-105-2
+    wasm: wcr-105/build/freezevuln.wasm
+  wcr-106:
+    abi: wcr-106/build/vulnerable.abi
+    name: wcr-106
+    wasm: wcr-106/build/vulnerable.wasm
+  wcr-107:
+    abi: wcr-107/build/vulnerable.abi
+    name: wcr-107
+    wasm: wcr-107/build/vulnerable.wasm
+  wcr-107-attacker:
+    abi: wcr-107/build/attacker.abi
+    name: wcr-107-attacker
+    wasm: wcr-107/build/attacker.wasm
+  wcr-108:
+    abi: wcr-108/build/vulnerable.abi
+    name: wcr-108
+    wasm: wcr-108/build/vulnerable.wasm
+  wcr-108-attacker:
+    abi: wcr-108/build/attacker.abi
+    name: wcr-108-attacker
+    wasm: wcr-108/build/attacker.wasm
+  wcr-111:
+    abi: wcr-111/build/vulnerable.abi
+    name: wcr-111
+    wasm: wcr-111/build/vulnerable.wasm
+  wcr-113:
+    abi: wcr-113/build/vulnerable.abi
+    name: wcr-113
+    wasm: wcr-113/build/vulnerable.wasm
+  wcr-113-attacker:
+    abi: wcr-113/build/attacker.abi
+    name: wcr-113-attacker
+    wasm: wcr-113/build/attacker.wasm
+options: null
